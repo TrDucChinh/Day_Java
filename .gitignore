@@ -11,7 +11,7 @@ target/
 *.iws
 *.iml
 *.ipr
-Test.java
+src/main/java/org/example/Test2.java
 
 ### Eclipse ###
 .apt_generated
